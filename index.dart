@@ -36,4 +36,3 @@ class Person {
   final int? age;
   Person({this.name, this.birthday, this.age});
 }
-
